@@ -1,5 +1,6 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-size: 1rem;
     min-height: 100vh;
     margin: 0;
     display: flex;
@@ -37,6 +38,9 @@ h1 {
     font-weight: 600;
 }
 
-p {
-    font-size: 18px;
+p {}
+
+footer {
+
+    padding: 20px 40px;
 }
